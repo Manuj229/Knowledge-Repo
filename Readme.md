@@ -33,7 +33,7 @@ For this I have thought to make a change log. Change log would be a simple excel
 
 Topics list:
 
-1. [Geography](obsidian://open?vault=current_affairs&file=Geography)
+1. [Geography](/Geography.md)
 
 	1. Distribution of Key Natural Resources
 	    1. South Asia
