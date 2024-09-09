@@ -11,8 +11,12 @@
             "id": "4fe6826d2953d0b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Internal Security/Development and Spread of Extremism.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Internal Security/Development and Spread of Extremism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Internal Security/Development and Spread of Extremism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Internal Security/Development and Spread of Extremism.md"
+              }
             }
           }
         ]
@@ -140,8 +148,41 @@
   },
   "active": "4fe6826d2953d0b0",
   "lastOpenFiles": [
-    "Geography.md",
+    "Disaster Management/Readme.md",
+    "Disaster Management",
+    "Internal Security/Challenges to Internal Security.md",
     "Readme.md",
-    "Environment.md"
+    "Internal Security/Development and Spread of Extremism.md",
+    "Internal Security/Readme.md",
+    "Internal Security/Readme.nd",
+    "Polity/Readme.md",
+    "Social Issues/Readme.md",
+    "Economy/Readme.md",
+    "Economy/Readme.d",
+    "International Relations/Readme.md",
+    "Science & Tech/Readme.md",
+    "Geography/Distribution of Key Natural Resources.md",
+    "Science & Tech/Intellectual Property Rights.md",
+    "Science & Tech/Science in Day to Day life.md",
+    "Science & Tech/Bio Technology.md",
+    "Science & Tech/Nano Tech.md",
+    "Science & Tech/Computers.md",
+    "Science & Tech/Space.md",
+    "Economy/Investment Models.md",
+    "Economy/Infrastructure News.md",
+    "Economy/Land Reforms.md",
+    "Economy/Budgeting.md",
+    "Economy/Food Processing in India.md",
+    "Economy/Untitled",
+    "Economy/Public Distribution System (everything).md",
+    "Economy/Issues related to subsidies.md",
+    "Economy/Inclusive Growth.md",
+    "Economy/News Related to Resource Mobilisation.md",
+    "Social Issues",
+    "International Relations",
+    "Economy",
+    "Science & Tech",
+    "Polity",
+    "Internal Security"
   ]
 }
